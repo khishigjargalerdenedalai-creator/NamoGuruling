@@ -1,0 +1,2 @@
+# NamoGuruling
+Buddhsit app, dictionary 
